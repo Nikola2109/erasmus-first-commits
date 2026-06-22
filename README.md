@@ -14,6 +14,7 @@ This is a simple exercise to practice making your first commit.
 
 | Name | Email | Discord name |
 |--------|--------|--------|
+|Hristo Vasilev Apostolov|ickata42gaming.gmail.com|IcKaTa42|
 |Anislava Shopova|shopovaanslava@gmail.com|ANIX|
 |yoan maev|yoanmaev@gmail.com|Mr.Mechovski|
 |Nikolai Vladimirov Petkov|nikolai.petkov2009@gmail.com|The bear|
