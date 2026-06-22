@@ -14,6 +14,7 @@ This is a simple exercise to practice making your first commit.
 
 | Name | Email | Discord name |
 |------|-------|-------|
+|Daniel Dobrev|d.dobrev08@gmail.com|ultramarine|
 | Tito Julio González Padial | titojuliogonzalez@gmail.com | tgp034 |
 
 ## 🔗 Links
