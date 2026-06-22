@@ -13,7 +13,6 @@ This is a simple exercise to practice making your first commit.
 ## 👥 Team
 
 | Name | Email | Discord name |
-|------|-------|-------|
 |------|-------|------|
 |yoan maev|yoanmaev@gmail.com|Mr.Mechovski|
 | Tito Julio González Padial | titojuliogonzalez@gmail.com | tgp034 |
