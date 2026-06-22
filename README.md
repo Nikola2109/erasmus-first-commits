@@ -14,6 +14,7 @@ This is a simple exercise to practice making your first commit.
 
 | Name | Email | Discord name |
 |--------|--------|--------|
+Petar Slaveev Krasimirov|p.s.krasimirov@gmail.com|Mr.Narch0|
 |Nikolai Vladimirov Petkov|nikolai.petkov2009@gmail.com|The bear|
 | Stanimir Ivanov Donchev | stanimir.donchev.pp28@pgmtplovdiv.info | Miru |
 |Radi|radidole4@gmail.com|illusionchloex_30821|
