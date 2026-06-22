@@ -13,7 +13,8 @@ This is a simple exercise to practice making your first commit.
 ## 👥 Team
 
 | Name | Email | Discord name |
-|--------|--------|--------|
+|------|-------|-------|
+|Daniel Dobrev|d.dobrev08@gmail.com|ultramarine|
 |Petar Slaveev Krasimirov|p.s.krasimirov@gmail.com|Mr.Narch0|
 |Hristo Vasilev Apostolov|ickata42gaming.gmail.com|IcKaTa42|
 |Anislava Shopova|shopovaanslava@gmail.com|ANIX|
