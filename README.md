@@ -13,6 +13,7 @@ This is a simple exercise to practice making your first commit.
 ## 👥 Team
 
 | Name | Email | Discord name |
+|--------|--------|--------|
 | Stanimir Ivanov Donchev | stanimir.donchev.pp28@pgmtplovdiv.info | Miru |
 |Radi|radidole4@gmail.com|illusionchloex_30821|
 | Tito Julio González Padial | titojuliogonzalez@gmail.com | tgp034 |
